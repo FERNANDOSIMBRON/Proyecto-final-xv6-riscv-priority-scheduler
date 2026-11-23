@@ -1,0 +1,10 @@
+*.o
+*.d
+*.asm
+*.sym
+.DS_Store
+__pycache__/
+*.log
+*.tmp
+*.swp
+.vscode/
